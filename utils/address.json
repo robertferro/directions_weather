@@ -1,0 +1,65 @@
+
+{ "origin_dict": {
+        "RJ": {"Rio de Janeiro": [ 
+                                    "Estação Central do Brasil, Rio de Janeiro, RJ",
+                                    "Museu do Amanhã, Rio de Janeiro, RJ",
+                                    "Jardim Botânico do Rio de Janeiro, RJ",
+                                    "Escadaria Selarón, Rio de Janeiro, RJ",
+                                    "Lapa Arches, Rio de Janeiro, RJ",
+                                    "Copacabana Beach, Rio de Janeiro, RJ",
+                                    "Pão de Açúcar, Rio de Janeiro, RJ",
+                                    "Ipanema Beach, Rio de Janeiro, RJ",
+                                    "Cristo Redentor, Rio de Janeiro, RJ",
+                                    "Museu de Arte Moderna (MAM), Rio de Janeiro, RJ" 
+                                    
+                                    ]
+                            },
+
+        "SP": {"São Paulo": [
+                                    "Estação da Luz, São Paulo - SP",
+                                    "Avenida Paulista, São Paulo - SP",
+                                    "Museu de Arte de São Paulo (MASP), São Paulo - SP",
+                                    "Allianz Parque, São Paulo - SP",
+                                    "Rua 25 de Março, São Paulo - SP",
+                                    "Rua Augusta, São Paulo - SP",
+                                    "Catedral da Sé, São Paulo - SP",
+                                    "Sesc Pompeia, São Paulo - SP",
+                                    "Hospital das Clínicas, São Paulo - SP",
+                                    "Avenida Paulista, São Paulo - SP"
+                                    ]
+                            }
+},
+
+"destino_dict": {                
+        "RJ":{"Rio de Janeiro": [
+                                    "Museu do Amanhã, Rio de Janeiro, RJ",
+                                    "Jardim Botânico do Rio de Janeiro, RJ",
+                                    "Escadaria Selarón, Rio de Janeiro, RJ",
+                                    "Lapa Arches, Rio de Janeiro, RJ",
+                                    "Copacabana Beach, Rio de Janeiro, RJ",
+                                    "Pão de Açúcar, Rio de Janeiro, RJ",
+                                    "Ipanema Beach, Rio de Janeiro, RJ",
+                                    "Cristo Redentor, Rio de Janeiro, RJ",
+                                    "Museu de Arte Moderna (MAM), Rio de Janeiro, RJ",
+                                    "Estação Central do Brasil, Rio de Janeiro, RJ"
+                                    
+                                    ] 
+                            },
+
+        "SP":{"São Paulo": [
+                                    "Parque Ibirapuera, São Paulo - SP",
+                                    "Mercado Municipal de São Paulo, São Paulo - SP",
+                                    "Parque Villa-Lobos, São Paulo - SP",
+                                    "Estádio do Morumbi, São Paulo - SP",
+                                    "Shopping Center Norte, São Paulo - SP",
+                                    "Rua Oscar Freire, São Paulo - SP",
+                                    "Pico do Jaraguá, São Paulo - SP",
+                                    "Jardim Botânico de São Paulo, São Paulo - SP",
+                                    "Parque do Ibirapuera, São Paulo - SP",
+                                    "Rua 25 de Março, São Paulo - SP"
+                                    ]
+                            }
+
+
+}
+}
